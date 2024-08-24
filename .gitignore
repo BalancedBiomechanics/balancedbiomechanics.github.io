@@ -1,0 +1,6 @@
+node_modules/
+themes/tella/exampleSite/
+public/
+resources/_gen/
+themes/tella/images/
+.hugo_build.lock
